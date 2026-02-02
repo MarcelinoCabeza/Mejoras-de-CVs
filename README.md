@@ -14,6 +14,16 @@ Base de datos de internet relativos a puestos de trabajo similares y criterios d
 ¿QUe perfil de candidato prefiere la empresa y que escala de valores da a cada uno de los requisitos de la solicitud
 Sugerencia de presentacion de CVs.
 LOs metodos de IA a utilizar son:
+Procesamiento de lenguaje natural NLP
+IA Generativa
+Extraccion de datos
+El proceso de trabajo seria
+1 Captacion de la informacion de perfiles de puestos de trabajo de modelos de CV
+2 Estudio de los requisitos de la empresa
+3 Comparacion de la informacion y diagnostico de que caracteristicas faltan en los CVs
+Correccion de los CV
+Optimiacion del formato del CV
+Se precisaran varias herramientas pero la principal sera de analisis y comparacion que sera de GPT o Gemini
 Limitaciones
 La emision de tales sugerencias suponen una intrusion en la documentacion de persona y por tanto la utilizacion de tal aplicacion precisaria la conformidad escrta del candidato por escrito.
 ¿que futuro puede tener?
