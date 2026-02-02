@@ -1,5 +1,5 @@
 #Titilo del proyecto Mejoras-de-CVs
-##Resumen El proyecto lee los Cvs presentados para optar a un puesto de trabajo y sugiere cambios en el curriculum para potenciar las posibilidades del candidato
+## Resumen El proyecto lee los Cvs presentados para optar a un puesto de trabajo y sugiere cambios en el curriculum para potenciar las posibilidades del candidato
 Proyecto final del curso "Building AI"
 ## Objetivo Leer y analizar los CVs recibidos para cubrir un puesto de tabajo que require unas capacidad deteminadas y sugerir a los candidatos los cabios n sus CVs que mejorarian sus opcioes para lograr el puesto.  
 ## Descripcion Se trata de conseguir que los candidadtos a un puesto de trabajo sepan presentar sus capacidades enfocadas a las necesidades del puesto de trabajo. La mala redaccion de CVs es muy frecuente. He detectado ete problema en varia de las empresas en que he trabajado.Considero interesante tal labor para beneficio no solo de los asprantes sino tambien de las empresas demandantes para tener mejor informacion de los candidatos.
